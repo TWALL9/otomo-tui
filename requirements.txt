@@ -1,0 +1,2 @@
+pyserial>=3.5
+asciimatics>=1.14.0
